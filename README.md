@@ -4,6 +4,10 @@
 Apresentar a temperatura em uma determinada cidade.
 
 
+https://user-images.githubusercontent.com/101711941/206421208-3ec17c48-ebb9-48e1-b1f3-0c2d2e5ade4d.mp4
+
+
+
 ## Principais Tecnologias
 * Swift e UIKit
 * Requisições para API de temperatura
